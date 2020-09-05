@@ -1,0 +1,11 @@
+{
+  "name": "node_examples",
+  "version": "1.0.0",
+  "description": "Tutorials",
+  "main": "index.js",
+  "author": "Alaneme Ikenna Raphael",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  }
+}
